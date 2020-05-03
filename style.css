@@ -60,7 +60,7 @@ body {
   	display:inline-block;
   	cursor:pointer;
   	color:#F1F1F1;
-  	font-family: 'fivo_sans_modernmedium_regular';
+  	font-family: 'fivo_sans_modernregular';
   	font-size:20px;
   	padding:16px 28px;
   	text-decoration:none;
@@ -93,22 +93,22 @@ body {
     }
 
     h1 {
-      font-family: font-family: 'fivo_sans_modernmedium_regular';
+      font-family: font-family: 'fivo_sans_modernregular';
     }
     p {
-        font-family: font-family: 'fivo_sans_modernmedium_regular';
+        font-family: font-family: 'fivo_sans_modernregular';
     }
     ul {
-        font-family: font-family: 'fivo_sans_modernmedium_regular';
+        font-family: font-family: 'fivo_sans_modernregular';
     }
 
     a {
-      font-family: font-family: 'fivo_sans_modernmedium_regular';
+      font-family: font-family: 'fivo_sans_modernregular';
       color: white;
       }
 
     div{
-      font-family: font-family: 'fivo_sans_modernmedium_regular';
+      font-family: font-family: 'fivo_sans_modernregular';
         color: white;
     }
 
