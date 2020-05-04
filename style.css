@@ -22,7 +22,8 @@ a {
 
 .filterDiv {
   background-color:: #00ff44;
-  border-radius:10px;
+  border-radius:20px;
+  width: 400px;
   border:3px solid #00ff44;
   display:inline-block;
   cursor:pointer;
@@ -32,7 +33,7 @@ a {
   padding:3px 7px;
   margin: 5px;
   text-decoration:none;
-  text-shadow:2px 2px 2px #27664F;
+  text-shadow:1.5px 1.5px 1.5px #27664F;
 }
 .filterDiv:hover {
   background-color::#00ff44;
