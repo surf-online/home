@@ -16,7 +16,9 @@ body {
   height: 100vh;
 }
 
-
+a {
+  font-style: monospace;
+}
 
 .filterDiv {
   background-color:: #00ff44;
