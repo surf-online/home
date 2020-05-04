@@ -33,19 +33,14 @@ a {
   padding:3px 7px;
   margin: 5px;
   text-decoration:none;
-  text-shadow:1.5px 1.5px 1.5px ##ff0000;
+  text-shadow:1.5px 1.5px 1.5px #ff0000;
   background-color: #ddd3ee;
 }
 .filterDiv:hover {
   background-color::#00ff44;
   color: black;
 }
-.filterDiv:active {
-  position:absolute;
-     left : 20px;
-     right :20px;
-     top:1;
-  }
+
 /* Add some content at the bottom of the video/page */
 .content {
   position: fixed;
@@ -57,7 +52,6 @@ a {
   height: 100vh;
   padding: 20px;
 }
-
 
 /* Style the button used to pause/play the video */
 #btn {
@@ -102,12 +96,7 @@ a {
   	background-color:#00ff44;
     color: black;
   }
-  .btn:active {
-  	position:absolute;
-       left : 20px;
-       right : 20px;
-       top:1;
-    }
+  
 
 
     #input {
