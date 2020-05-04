@@ -20,14 +20,13 @@ body {
 
 .filterDiv {
   background-color:: #00ff44;
-  border-radius:100px;
+  border-radius:10px;
   border:3px solid #00ff44;
   display:inline-block;
   cursor:pointer;
   color: black;
-  font-family: monospace;
-    color: black;
-  font-size:30px;
+  font-family: 'fivo_sans_modernregular';
+  font-size:20px;
   padding:3px 7px;
   margin: 5px;
   text-decoration:none;
