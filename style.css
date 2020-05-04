@@ -33,7 +33,7 @@ a {
   padding:3px 7px;
   margin: 5px;
   text-decoration:none;
-  text-shadow:1.5px 1.5px 1.5px #00ff44;
+  text-shadow:1px 1px 1px #00ff44;
   background-color: #ddd3ee;
 }
 .filterDiv:hover {
@@ -89,7 +89,9 @@ a {
     color: black;
   }
   
-
+  marquee {
+    margin: 5px;
+}
 
     #input {
       background-color: #000329; /* colore di sfondo    */
