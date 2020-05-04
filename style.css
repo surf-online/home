@@ -25,7 +25,7 @@ a {
   border-radius:20px;
   width: 450px;
   border:3px solid #00ff44;
-  display:inline-block;
+  display: block;
   cursor:pointer;
   color: black;
   font-family: 'fivo_sans_modernregular';
