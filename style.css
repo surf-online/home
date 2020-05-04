@@ -23,7 +23,7 @@ a {
 .filterDiv {
   background-color:: #00ff44;
   border-radius:20px;
-  width: 400px;
+  width: 450px;
   border:3px solid #00ff44;
   display:inline-block;
   cursor:pointer;
@@ -31,7 +31,7 @@ a {
   font-family: 'fivo_sans_modernregular';
   font-size:20px;
   padding:3px 7px;
-  margin: 5px;
+  margin: 15px;
   text-decoration:none;
   text-shadow:1px 1px 1px #00ff44;
   background-color: #ddd3ee;
@@ -91,6 +91,12 @@ a {
   
   marquee {
     margin: 5px;
+}
+
+container {
+  width: 10000px;
+  height: 10000px;
+  column-count: 20;
 }
 
     #input {
