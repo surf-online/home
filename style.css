@@ -16,6 +16,33 @@ body {
   height: 100vh;
 }
 
+
+
+.filterDiv {
+  background-color:: #00ff44;
+  border-radius:100px;
+  border:3px solid #00ff44;
+  display:inline-block;
+  cursor:pointer;
+  color: black;
+  font-family: monospace;
+    color: black;
+  font-size:30px;
+  padding:3px 7px;
+  margin: 5px;
+  text-decoration:none;
+  text-shadow:2px 2px 2px #27664F;
+}
+.filterDiv:hover {
+  background-color::#00ff44;
+  color: black;
+}
+.filterDiv:active {
+  position:absolute;
+     left : 20px;
+     right :20px;
+     top:1;
+  }
 /* Add some content at the bottom of the video/page */
 .content {
   position: fixed;
@@ -28,8 +55,9 @@ body {
   padding: 20px;
 }
 
+
 /* Style the button used to pause/play the video */
-#myBtn {
+#btn {
   font-size: 18px;
   padding: 5x;
   margin: 5px;
@@ -39,7 +67,7 @@ body {
   cursor: pointer;
 }
 
-#myBtn:hover {
+#btn:hover {
   background: #ddd;
   color: black;
 }
@@ -53,8 +81,8 @@ body {
 }
 
 
-  .myButton {
-  	background-color::#00ff44;
+  .btn {
+  	background-color:#675b84;
   	border-radius:28px;
   	border:1px solid #00ff44;
   	display:inline-block;
@@ -67,11 +95,11 @@ body {
   	text-decoration:none;
   	text-shadow:2px 2px 2px #27664F;
   }
-  .myButton:hover {
+  .btn:hover {
   	background-color:#00ff44;
     color: black;
   }
-  .myButton:active {
+  .btn:active {
   	position:absolute;
        left : 20px;
        right : 20px;
@@ -89,30 +117,12 @@ body {
       width: 20px;               /* larghezza           */
     }
     big {
-      font-family: ;
+      font-family: 'fivo_sans_modernregular';
       color: red;
       font-size: 40px;
     }
 
-    h1 {
-      font-family: font-family: 'fivo_sans_modernregular';
-    }
-    p {
-        font-family: font-family: 'fivo_sans_modernregular';
-    }
-    ul {
-        font-family: font-family: 'fivo_sans_modernregular';
-    }
 
-    a {
-      font-family: font-family: 'fivo_sans_modernregular';
-      color: white;
-      }
-
-    div{
-      font-family: font-family: 'fivo_sans_modernregular';
-        color: white;
-    }
 
     @keyframes slide {
       0% {
