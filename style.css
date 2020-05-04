@@ -99,6 +99,10 @@ container {
   column-count: 20;
 }
 
+.show {
+  display: block;
+}
+
     #input {
       background-color: #000329; /* colore di sfondo    */
       border: 1px solid #00021c; /* bordo dell'elemento */
