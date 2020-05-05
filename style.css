@@ -20,6 +20,8 @@ a {
   font-style: monospace;
 }
 
+p { margin: 0; }
+
 .filterDiv {
   background-color:: #00ff44;
   border-radius:20px;
@@ -35,7 +37,6 @@ a {
   text-shadow:1px 1px 1px #00ff44;
   background-color: #ddd3ee;
   display: none;
-  text-align: center;
 }
 .filterDiv:hover {
   background-color::#00ff44;
