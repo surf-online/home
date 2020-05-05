@@ -92,6 +92,7 @@ a {
   
   marquee {
     background-color: green;
+    height: 10px;
 }
 
 container {
