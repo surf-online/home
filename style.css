@@ -34,7 +34,7 @@ table, th, thr {
 }
 
 body {
-  margin:0;
+  margin: 5;
   background-color: #BAA5EC;
   cursor  : url(ezgif-7-bee6f3cbe86f.gif), auto;
 }
@@ -158,11 +158,10 @@ h5 {
     color: black;
   }
 
-container {
+.container {
   width: 10000px;
   height: 2000px;
   column-count: 20;
-  overflow: hidden;
 }
 
 .show {
