@@ -8,7 +8,7 @@ html {
 }
 
 .scrolling {
-  animation: marquee 2s linear infinite;
+  animation: marquee 4s linear infinite;
   display: inline-block;
   padding-right: 10px;
 }
