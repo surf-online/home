@@ -158,7 +158,7 @@ h5 {
 .container {
   width: 3000px;
   height: 4000px;
-  column-count: 20;
+  column-count: 10;
 }
 
 .show {
