@@ -163,7 +163,9 @@ h5 {
 }
 
 .show {
+  page-break-inside: avoid;
   display: block;
+  break-inside: avoid !important;
 }
 
     #input {
