@@ -114,6 +114,11 @@ h4 {
   margin: 1px;
 }
 
+h5 {
+  font-family: 'fivo_sans_modernitalic';
+  color:#6016a2;
+}
+
   .btn {
   	background-color:#675b84;
   	border-radius:28px;
