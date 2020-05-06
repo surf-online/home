@@ -2,6 +2,26 @@ html {
   height:100%;
 }
 
+.scrollerer {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.scrolling {
+  animation: marquee 2s linear infinite;
+  display: inline-block;
+  padding-right: 10px;
+}
+
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to { 
+    transform: translateX(-100%);
+  }
+}
+
 body {
   margin:0;
   background-color: #BAA5EC;
