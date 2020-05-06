@@ -157,8 +157,8 @@ h5 {
 
 .container {
   width: 5000px;
-  height: 4000px;
-  column-count: 10;
+  height: 2000px;
+  column-count: 5;
   column-divide: auto;
 }
 
