@@ -159,6 +159,7 @@ h5 {
   width: 5000px;
   height: 4000px;
   column-count: 10;
+  column-divide: auto;
 }
 
 .show {
