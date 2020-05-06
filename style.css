@@ -63,7 +63,7 @@ p { margin: 0; }
   border-radius:20px;
   width: 450px;
   border:3px solid #00ff44;
-  display: block;
+  display: inline-block;
   color: black;
   font-family: 'fivo_sans_modernregular';
   font-size:20px;
