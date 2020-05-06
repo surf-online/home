@@ -1,6 +1,4 @@
-html {
-  height:100%;
-}
+
 
 table, th, thr {
   text-align: left;
@@ -162,6 +160,7 @@ h5 {
   width: 10000px;
   height: 2000px;
   column-count: 20;
+  background-color: blue;
 }
 
 .show {
