@@ -34,7 +34,6 @@ table, th, thr {
 body {
   margin: 5;
   background-color: #BAA5EC;
-  cursor  : url(ezgif-7-bee6f3cbe86f.gif), auto;
 }
 
 img {
@@ -160,11 +159,11 @@ h5 {
   width: 10000px;
   height: 2000px;
   column-count: 20;
-  background-color: blue;
+  background-color: red;
 }
 
 .show {
-  display: block;
+  display: inline-block;
 }
 
     #input {
