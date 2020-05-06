@@ -97,6 +97,26 @@ p { margin: 0; }
   	background-color:#00ff44;
     color: black;
   }
+
+  input {
+  	background-color:#675b84;
+  	border-radius:28px;
+    width: 100%;
+  	border:1px solid #00ff44;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#F1F1F1;
+  	font-family: 'fivo_sans_modernregular';
+  	font-size:15px;
+  	padding:3px 7px;
+    margin: 4px 2px;
+  	text-decoration:none;
+  	text-shadow:2px 2px 2px #27664F;
+  }
+  .btn:hover {
+  	background-color:#00ff44;
+    color: black;
+  }
   
   marquee {
     background-color: green;
