@@ -78,6 +78,10 @@ p { margin: 0; }
   color: black;
 }
 
+h4 {
+  font-family: 'fivo_sans_modernitalic';
+  margin: 1px;
+}
 
   .btn {
   	background-color:#675b84;
