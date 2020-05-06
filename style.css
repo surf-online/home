@@ -123,7 +123,8 @@ h4 {
   }
   
   marquee {
-  padding: 0px;
+  padding: 3px;
+    border-radius:28px;
     margin: 0px;
    -moz-box-shadow:    inset 0 0 10px #000000;
    -webkit-box-shadow: inset 0 0 10px #000000;
