@@ -160,7 +160,7 @@ h5 {
 
 container {
   width: 10000px;
-  height: 10000px;
+  height: 2000px;
   column-count: 20;
   overflow: hidden;
 }
