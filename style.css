@@ -172,6 +172,7 @@ h5 {
 .container {
   display: none;
   visbility: hidden;
+  background-color: red;
 }
 
 .show {
@@ -193,7 +194,7 @@ h5 {
       font-size: 20px;
     }
 }
-
+}
 
 
 
