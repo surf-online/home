@@ -163,6 +163,7 @@ h5 {
   width: 1500px;
   height: 5000px;
   column-count: 3;
+  column-fill: auto;
 }
 
 .show {
