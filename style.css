@@ -38,6 +38,9 @@ table {
 body {
   margin: 5;
   background-color: #BAA5EC;
+  text-align: left;
+  color: black;
+  font-family: 'fivo_sans_modernregular';
 }
 
 img {
@@ -57,6 +60,7 @@ img {
 
 a {
   font-style: monospace;
+  color: #BAA5EC;
 }
 
 p { margin: 0; }
@@ -67,8 +71,6 @@ p { margin: 0; }
   width: 450px;
   border:3px solid #00ff44;
   display: inline-block;
-  color: black;
-  font-family: 'fivo_sans_modernregular';
   font-size:20px;
   padding: 10px;
   margin: 10px;
