@@ -20,6 +20,7 @@ table {
    -moz-box-shadow:    inset 0 0 5px #000000;
    -webkit-box-shadow: inset 0 0 5px #000000;
    box-shadow:         inset 0 0 5px #000000;
+  visibility: hidden;
 }
 
 .scrolling {
@@ -51,6 +52,7 @@ img {
 
 #phone {
   z-index: 20;
+  display: block;
   }
 
 /* Style the video: 100% width and height to cover the entire window */
@@ -99,6 +101,7 @@ p { margin: 0; }
   width: 250px;
   height: 100vh;
   padding: 20px;
+  display: none;
 }
 
 /* Style the button used to pause/play the video */
@@ -168,6 +171,7 @@ h5 {
 
 .container {
   display: none;
+  visbility: hidden;
 }
 
 .show {
@@ -189,6 +193,19 @@ h5 {
       font-size: 20px;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media only screen and (min-width: 800px) {
 
