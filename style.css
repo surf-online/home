@@ -5,6 +5,10 @@ table, th, thr {
   outline: 1px solid #00ff44;
 }
 
+table {
+  width: 100%;
+}
+
 .scrollerer {
   overflow: hidden;
   white-space: nowrap;
