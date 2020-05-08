@@ -60,7 +60,7 @@ img {
 
 a {
   font-style: monospace;
-  color: #BAA5EC;
+  color: white;
 }
 
 p { margin: 0; }
@@ -162,9 +162,9 @@ h5 {
   }
 
 .container {
-  width: 1500px;
-  height: 5000px;
-  column-count: 3;
+  width: 3000px;
+  height: 3000px;
+  column-count: 6;
   column-fill: auto;
 }
 
