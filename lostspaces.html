@@ -12,6 +12,59 @@
        </head>
 
        <body>
+            
+            <style>
+                
+
+
+.scrollerer {
+  overflow: hidden;
+  white-space: nowrap;
+    padding: 3px;
+    border-radius:28px;
+    margin: 0px;
+   -moz-box-shadow:    inset 0 0 5px #000000;
+   -webkit-box-shadow: inset 0 0 5px #000000;
+   box-shadow:         inset 0 0 5px #000000;
+}
+
+.scrolling {
+  animation: marquee 4s linear infinite;
+  display: inline-block;
+  padding-right: 10px;
+}
+
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to { 
+    transform: translateX(-100%);
+  }
+}
+
+body {
+  margin: 5;
+  background-color: #BAA5EC;
+  text-align: left;
+  color: black;
+  font-family: 'fivo_sans_modernregular';
+}
+
+
+a {
+  font-style: monospace;
+  color: black;
+  background-color: 00ff44;
+}
+
+
+
+h1 {
+  font-family: 'fivo_sans_modernitalic';
+  color:#6016a2;
+} 
+            </style>
 
 <h1>Let’s colour new horizons</h1> <br><br>
 “De buitenwereld
