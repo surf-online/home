@@ -17,16 +17,11 @@
           
                 
             <script>
-                 $(function() {
-
-   $("body").mousewheel(function(event, delta) {
-
-      this.scrollLeft -= (delta * 30);
-    
-      event.preventDefault();
-
-   });
-
+                $(document).ready(function() {
+$('html, body, *').mousewheel(function(e, delta) {
+this.scrollLeft -= (delta);
+e.preventDefault();
+});
 });
             </script>
             
@@ -96,7 +91,8 @@ h1 {
 } 
             </style>
 
-<h1>Let’s colour new horizons</h1> <br>
+<img src="surf-logo-spin.gif"
+               width=50px height=50px> <h1>Let’s colour new horizons</h1> <br>
             <i>essay by Frederiek Bennema for SURF1.0</i><br><br>
 “De buitenwereld<br>
 Lijkt in een doos te zitten<br>
@@ -204,8 +200,7 @@ actual and virtual horizons and envision possible futures: let’s colour new ho
 
         <br><br>
 
-               <a href="surf-online.github.io/home" target="_blank"><img src="surf-logo-spin.gif"
-               width=50px height=50px> go back home </a>
+               <a href="surf-online.github.io/home" target="_blank">(go back home)</a>
    
         
         
