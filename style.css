@@ -8,8 +8,8 @@ table {
   width: 100%;
 }
 
-.surf2 {
-  background-color: yellow;
+.surf1 {
+  opacity: 50;
 }
 
 .scrollerer {
