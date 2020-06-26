@@ -8,6 +8,10 @@ table {
   width: 100%;
 }
 
+.surf2 {
+  background-color: yellow;
+}
+
 .scrollerer {
   overflow: hidden;
   white-space: nowrap;
