@@ -8,10 +8,6 @@ table {
   width: 100%;
 }
 
-.surf1 {
-  opacity: 50%;
-}
-
 .scrollerer {
   overflow: hidden;
   white-space: nowrap;
